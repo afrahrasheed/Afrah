@@ -22,8 +22,16 @@
 
 int main() 
 {
-    
-printf("")
+ int i;
+ //infinite loop
+  while (1){
+printf("Please select from the following menu: ")
+ scanf("%d", &i);
+ if =(i==1);
+ break; //exit the loop
+
+
+
 //admin password required for coffee mmaker operator//
 #define admin_password "admin123"
 
